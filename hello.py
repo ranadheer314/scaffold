@@ -4,7 +4,7 @@
 def toyou(x):
     return f"hi {x}"
 
-var=1
+var=
 def add(x):
     return x + 1
 
